@@ -2,13 +2,13 @@
 [![zhiyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats&&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 24 Contributions in the Year 2022
  > 
-> 📦 103.2 kB Used in GitHub's Storage 
+> 📦 110.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -45,21 +45,21 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 1 min         █████████████████░░░░░░░░   70.46% 
-YAML                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
-Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.26% 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.29% 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.34%
+Python                   10 hrs 26 mins      ██████████████████░░░░░░░   74.01% 
+YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.41% 
+Text                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.31% 
+Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.91% 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.81%
 
 🔥 Editors: 
-VS Code                  8 hrs 32 mins       █████████████████████████   100.0%
+VS Code                  14 hrs 6 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-push-tag-sync            7 hrs 59 mins       ███████████████████████░░   93.61% 
-Unknown Project          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.39%
+push-tag-sync            13 hrs 33 mins      ████████████████████████░   96.13% 
+Unknown Project          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.87%
 
 💻 Operating System: 
-Windows                  8 hrs 32 mins       █████████████████████████   100.0%
+Windows                  14 hrs 6 mins       █████████████████████████   100.0%
 
 ```
 
@@ -80,7 +80,7 @@ Shell                    4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhiyue/zhiyue/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/03/2022 18:50:57 UTC
+ Last Updated on 02/04/2022 18:48:04 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
