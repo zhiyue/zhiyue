@@ -2,7 +2,7 @@
 [![zhiyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats&&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-628%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-628%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -10,7 +10,7 @@
 
 > 🏆 152 Contributions in the Year 2022
  > 
-> 📦 69.3 kB Used in GitHub's Storage 
+> 📦 70.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -47,21 +47,21 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     2 hrs 58 mins       ███████████░░░░░░░░░░░░░░   46.3% 
-JavaScript               2 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.67% 
-C++                      1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+JSON                     3 hrs 32 mins       ███████████░░░░░░░░░░░░░░   45.39% 
+JavaScript               3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   43.26% 
+C++                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.06% 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 
 🔥 Editors: 
-VS Code                  5 hrs 19 mins       ████████████████████░░░░░   82.98% 
-CLion                    1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.02%
+VS Code                  6 hrs 55 mins       ██████████████████████░░░   88.94% 
+CLion                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.06%
 
 🐱‍💻 Projects: 
-crawler-google-places    5 hrs 19 mins       ████████████████████░░░░░   82.98% 
-zcomm                    1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.02%
+crawler-google-places    6 hrs 55 mins       ██████████████████████░░░   88.94% 
+zcomm                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.06%
 
 💻 Operating System: 
-Windows                  6 hrs 25 mins       █████████████████████████   100.0%
+Windows                  7 hrs 47 mins       █████████████████████████   100.0%
 
 ```
 
@@ -82,7 +82,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhiyue/zhiyue/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/08/2022 19:00:18 UTC
+ Last Updated on 25/08/2022 18:52:01 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
