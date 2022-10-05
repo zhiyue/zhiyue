@@ -10,7 +10,7 @@
 
 > 🏆 152 Contributions in the Year 2022
  > 
-> 📦 70.7 kB Used in GitHub's Storage 
+> 📦 69.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -47,22 +47,16 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       1 hr 27 mins        ██████████████████████░░░   89.95% 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.86% 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0% 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   1 hr 37 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mkg                      51 mins             █████████████░░░░░░░░░░░░   53.16% 
-crawler-goolge-places-wor33 mins             ████████░░░░░░░░░░░░░░░░░   33.79% 
-feedback_web             12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 37 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -83,7 +77,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhiyue/zhiyue/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/10/2022 19:08:04 UTC
+ Last Updated on 05/10/2022 19:06:48 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
