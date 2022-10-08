@@ -10,7 +10,7 @@
 
 > 🏆 152 Contributions in the Year 2022
  > 
-> 📦 69.6 kB Used in GitHub's Storage 
+> 📦 70.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -47,16 +47,23 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     34 mins             █████████████░░░░░░░░░░░░   53.52% 
+Java                     27 mins             ███████████░░░░░░░░░░░░░░   43.62% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.37% 
+Jinja2                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 56 mins             ██████████████████████░░░   87.62% 
+VS Code                  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.38%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+push-downward            56 mins             ██████████████████████░░░   87.62% 
+ansible-devops           7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.38%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  56 mins             ██████████████████████░░░   87.62% 
+Linux                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.38%
 
 ```
 
@@ -77,7 +84,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhiyue/zhiyue/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/10/2022 19:05:23 UTC
+ Last Updated on 08/10/2022 18:57:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
