@@ -2,7 +2,7 @@
 [![zhiyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats&&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -10,7 +10,7 @@
 
 > 🏆 158 Contributions in the Year 2022
  > 
-> 📦 70.5 kB Used in GitHub's Storage 
+> 📦 69.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -47,24 +47,20 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     6 hrs 34 mins       █████████████████░░░░░░░░   71.36% 
-Go                       1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
-Jinja2                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-SQL                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95% 
-Vue.js                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57%
+YAML                     9 hrs 53 mins       ███████████████████████░░   92.5% 
+Jinja2                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+INI                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-VS Code                  7 hrs 22 mins       ████████████████████░░░░░   80.02% 
-GoLand                   1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   19.98%
+VS Code                  10 hrs 41 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-ansible-devops           7 hrs 22 mins       ████████████████████░░░░░   80.02% 
-feedback_report_go       1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.58% 
-feedback_web             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.4%
+ansible-devops           10 hrs 41 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    7 hrs 22 mins       ████████████████████░░░░░   80.02% 
-Windows                  1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   19.98%
+Linux                    10 hrs 41 mins      █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +81,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhiyue/zhiyue/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/10/2022 19:10:08 UTC
+ Last Updated on 20/10/2022 19:10:43 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
