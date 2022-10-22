@@ -2,7 +2,7 @@
 [![zhiyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats&&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-709%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -10,7 +10,7 @@
 
 > 🏆 158 Contributions in the Year 2022
  > 
-> 📦 69.6 kB Used in GitHub's Storage 
+> 📦 71.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -47,20 +47,20 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     9 hrs 53 mins       ███████████████████████░░   92.5% 
-Jinja2                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-INI                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+YAML                     10 hrs 12 mins      ████████████████████████░   98.91% 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41% 
+Jinja2                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  10 hrs 41 mins      █████████████████████████   100.0%
+VS Code                  10 hrs 19 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-ansible-devops           10 hrs 41 mins      █████████████████████████   100.0%
+ansible-devops           10 hrs 19 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    10 hrs 41 mins      █████████████████████████   100.0%
+Linux                    10 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
@@ -81,7 +81,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhiyue/zhiyue/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/10/2022 19:10:43 UTC
+ Last Updated on 22/10/2022 18:58:24 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
