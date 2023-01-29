@@ -10,7 +10,7 @@
 
 > 🏆 1 Contributions in the Year 2023
  > 
-> 📦 76.8 kB Used in GitHub's Storage 
+> 📦 77.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -47,16 +47,25 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       33 mins             ████████████░░░░░░░░░░░░░   51.22% 
+YAML                     32 mins             ████████████░░░░░░░░░░░░░   48.69% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
+Protocol Buffer          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   33 mins             ████████████░░░░░░░░░░░░░   51.31% 
+VS Code                  32 mins             ████████████░░░░░░░░░░░░░   48.69%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+iFace                    32 mins             ████████████░░░░░░░░░░░░░   50.13% 
+ansible-devops           32 mins             ████████████░░░░░░░░░░░░░   48.69% 
+LearnGoProject           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  33 mins             ████████████░░░░░░░░░░░░░   51.31% 
+Linux                    32 mins             ████████████░░░░░░░░░░░░░   48.69%
 
 ```
 
@@ -77,7 +86,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhiyue/zhiyue/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2023 18:38:37 UTC
+ Last Updated on 29/01/2023 18:38:51 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
