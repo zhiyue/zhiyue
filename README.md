@@ -8,7 +8,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 361.8 kB Used in GitHub's Storage 
+> 📦 360.9 kB Used in GitHub's Storage 
  > 
 > 🏆 145 Contributions in the Year 2023
  > 
@@ -45,19 +45,16 @@ Sunday                   141 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       3 hrs 36 mins       █████████████████████████   99.50 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   3 hrs 37 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mkg                      3 hrs 37 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +74,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhiyue/zhiyue/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2023 18:36:52 UTC
+ Last Updated on 03/10/2023 18:36:54 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
