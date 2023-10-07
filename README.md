@@ -8,7 +8,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 361.8 kB Used in GitHub's Storage 
+> 📦 360.9 kB Used in GitHub's Storage 
  > 
 > 🏆 145 Contributions in the Year 2023
  > 
@@ -45,16 +45,23 @@ Sunday                   141 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 hr 1 min          ██████████████░░░░░░░░░░░   57.87 % 
+Protocol Buffer          20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+protobuf                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+SQL                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   1 hr 44 mins        ████████████████████████░   97.77 % 
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mkg                      57 mins             █████████████░░░░░░░░░░░░   53.98 % 
+mkpb                     39 mins             █████████░░░░░░░░░░░░░░░░   37.33 % 
+Unknown Project          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,7 +81,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhiyue/zhiyue/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2023 18:36:34 UTC
+ Last Updated on 07/10/2023 18:36:13 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
