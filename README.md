@@ -2,13 +2,13 @@
 [![zhiyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats&&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C664%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C668%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 361.9 kB Used in GitHub's Storage 
+> 📦 362.7 kB Used in GitHub's Storage 
  > 
 > 🏆 146 Contributions in the Year 2023
  > 
@@ -81,7 +81,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhiyue/zhiyue/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2023 18:36:38 UTC
+ Last Updated on 21/10/2023 18:36:26 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
