@@ -1290,12 +1290,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 79.00800000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.03200000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">99%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">go.mod</span>
-                                <div class="bar" style="width: 0.7040000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.688%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
@@ -1305,7 +1305,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">Protocol Buffer</span>
-                                <div class="bar" style="width: 0.11200000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
@@ -1329,7 +1329,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Dec 2023, 00:02:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Dec 2023, 01:02:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
