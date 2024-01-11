@@ -2,15 +2,13 @@
 [![zhiyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats&&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C899%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C903%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 363.3 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
+> 📦 362.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -45,20 +43,20 @@ Sunday                   141 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       13 hrs 57 mins      ████████████████████████░   96.92 % 
-SQL                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Go                       12 hrs 5 mins       █████████████████████████   99.01 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-GoLand                   14 hrs 24 mins      █████████████████████████   100.00 % 
+GoLand                   12 hrs 13 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mkg                      14 hrs 24 mins      █████████████████████████   100.00 % 
+mkg                      12 hrs 13 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +76,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhiyue/zhiyue/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2024 18:37:02 UTC
+ Last Updated on 11/01/2024 18:36:30 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
