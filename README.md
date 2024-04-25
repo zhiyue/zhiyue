@@ -4,13 +4,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C215%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 366.6 kB Used in GitHub's Storage 
- > 
-> 🏆 1 Contributions in the Year 2024
+> 📦 365.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -45,20 +43,16 @@ Sunday                   141 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       1 hr 12 mins        ██████████████████████░░░   86.31 % 
-YAML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   1 hr 12 mins        ██████████████████████░░░   86.45 % 
-VS Code                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mkg                      1 hr 7 mins         ████████████████████░░░░░   80.36 % 
-Unknown Project          16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +72,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhiyue/zhiyue/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2024 18:36:00 UTC
+ Last Updated on 25/04/2024 18:36:07 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
