@@ -4,11 +4,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C215%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 366.6 kB Used in GitHub's Storage 
+> 📦 365.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 2 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -58,11 +60,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Shell                    6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-HCL                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Python                   15 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Shell                    6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+HCL                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
@@ -72,7 +74,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhiyue/zhiyue/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2024 18:36:47 UTC
+ Last Updated on 09/05/2024 19:01:09 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
