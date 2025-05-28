@@ -8,9 +8,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 377.8 kB Used in GitHub's Storage 
- > 
-> 🏆 306 Contributions in the Year 2025
+> 📦 374.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -74,7 +72,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhiyue/zhiyue/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2025 18:45:02 UTC
+ Last Updated on 28/05/2025 18:43:45 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
