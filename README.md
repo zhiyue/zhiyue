@@ -8,15 +8,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 377.9 kB Used in GitHub's Storage 
+> 📦 379.3 kB Used in GitHub's Storage 
  > 
-> 🏆 370 Contributions in the Year 2025
+> 🏆 376 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
-> 🔑 26 Private Repositories 
+> 🔑 28 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -60,11 +60,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   20 repos            ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-Shell                    10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Python                   20 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Shell                    10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+JavaScript               10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 
 
@@ -74,7 +74,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhiyue/zhiyue/main/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2025 18:45:34 UTC
+ Last Updated on 25/06/2025 18:47:35 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
