@@ -2,11 +2,11 @@
 [![zhiyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats&&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 473.0 kB Used in GitHub's Storage 
+> 📦 472.1 kB Used in GitHub's Storage 
  > 
 > 🏆 1,658 Contributions in the Year 2025
  > 
@@ -21,18 +21,18 @@
 ```text
 🌞 Morning                217 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 🌆 Daytime                1489 commits        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-🌃 Evening                3928 commits        ████████████░░░░░░░░░░░░░   48.86 % 
-🌙 Night                  2405 commits        ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+🌃 Evening                3928 commits        ████████████░░░░░░░░░░░░░   48.84 % 
+🌙 Night                  2408 commits        ███████░░░░░░░░░░░░░░░░░░   29.94 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   607 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Tuesday                  975 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Tuesday                  974 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
 Wednesday                1165 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Thursday                 1931 commits        ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Thursday                 1935 commits        ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
 Friday                   1366 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Saturday                 1540 commits        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Saturday                 1540 commits        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
 Sunday                   455 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 ```
 
@@ -72,7 +72,7 @@ TeX                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhiyue/zhiyue/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2025 18:48:35 UTC
+ Last Updated on 02/11/2025 18:50:28 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
