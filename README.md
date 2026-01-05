@@ -2,13 +2,13 @@
 [![zhiyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats&&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C218%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C218%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 512.0 kB Used in GitHub's Storage 
+> 📦 513.0 kB Used in GitHub's Storage 
  > 
 > 🏆 2 Contributions in the Year 2026
  > 
@@ -22,19 +22,19 @@
 
 ```text
 🌞 Morning                251 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-🌆 Daytime                1516 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-🌃 Evening                3941 commits        ████████████░░░░░░░░░░░░░   47.37 % 
-🌙 Night                  2611 commits        ████████░░░░░░░░░░░░░░░░░   31.39 % 
+🌆 Daytime                1516 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+🌃 Evening                3941 commits        ████████████░░░░░░░░░░░░░   47.35 % 
+🌙 Night                  2616 commits        ████████░░░░░░░░░░░░░░░░░   31.43 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   624 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Tuesday                  1003 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Wednesday                1173 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Thursday                 2137 commits        ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-Friday                   1378 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Saturday                 1543 commits        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Tuesday                  1003 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Wednesday                1173 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Thursday                 2142 commits        ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
+Friday                   1378 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Saturday                 1543 commits        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
 Sunday                   461 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 ```
 
@@ -74,7 +74,7 @@ TeX                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhiyue/zhiyue/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 18:57:36 UTC
+ Last Updated on 05/01/2026 18:59:56 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
