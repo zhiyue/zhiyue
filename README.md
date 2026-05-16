@@ -2,11 +2,13 @@
 [![zhiyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats&&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C218%20hrs%2045%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 555.6 kB Used in GitHub's Storage 
+> 📦 554.7 kB Used in GitHub's Storage 
  > 
 > 🏆 327 Contributions in the Year 2026
  > 
@@ -21,8 +23,8 @@
 ```text
 🌞 Morning                280 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 🌆 Daytime                1767 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-🌃 Evening                4643 commits        ████████████░░░░░░░░░░░░░   46.76 % 
-🌙 Night                  3240 commits        ████████░░░░░░░░░░░░░░░░░   32.63 % 
+🌃 Evening                4641 commits        ████████████░░░░░░░░░░░░░   46.74 % 
+🌙 Night                  3242 commits        ████████░░░░░░░░░░░░░░░░░   32.65 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -30,8 +32,8 @@
 Monday                   691 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 Tuesday                  1177 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 Wednesday                1317 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Thursday                 2678 commits        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-Friday                   1756 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Thursday                 2680 commits        ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+Friday                   1754 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
 Saturday                 1783 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
 Sunday                   528 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 ```
@@ -72,7 +74,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhiyue/zhiyue/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 19:23:42 UTC
+ Last Updated on 16/05/2026 19:08:47 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
