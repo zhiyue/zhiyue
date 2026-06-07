@@ -2,13 +2,11 @@
 [![zhiyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats&&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C218%20hrs%2045%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 589.6 kB Used in GitHub's Storage 
+> 📦 588.4 kB Used in GitHub's Storage 
  > 
 > 🏆 1,114 Contributions in the Year 2026
  > 
@@ -74,7 +72,7 @@ Rust                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhiyue/zhiyue/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 19:16:48 UTC
+ Last Updated on 07/06/2026 19:17:29 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyue)](https://github.com/anuraghazra/github-readme-stats) -->
